@@ -4,4 +4,4 @@ Description of the Project: My Portfolio Website is a Website that is used to ge
 
 Webhhosting: https://wizz123.github.io/Luis-Escalona/
 
-Repositiry Link: https://github.com/wizz123/Luis-Escalona
+Repository Link: https://github.com/wizz123/Luis-Escalona
